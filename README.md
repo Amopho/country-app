@@ -1,6 +1,6 @@
-# reactive-to-do-app :white_check_mark:
+# country-app
 
-Another version of DOM to-do list, made this time by use of ReactJs.
+App displaying flags of various countries created with use of Axios and ReactJS.
 
 ![Preview](./src/components/images/flag.png)
 
